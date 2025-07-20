@@ -34,13 +34,14 @@ To run this project locally, follow the steps below:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/CIT-8.0.git
-cd CIT-8.0
-
+cd CIT-8.0 
+---
 ### 2. Install Dependencies
-bash
+```bash
 Copy
 Edit
 pip install -r requirements.txt
+---
 ### 3. Apply Migrations
 bash
 Copy
