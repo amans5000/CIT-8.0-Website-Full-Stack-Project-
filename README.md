@@ -6,13 +6,15 @@ Welcome to the official repository for the **Cognitive Intelligence Test (CIT) 8
 
 ## Overview
 
-**CIT 8.0** is a national-level aptitude test that offers aspiring students the opportunity to engage in intellectually stimulating challenges. The test includes:
+**CIT 8.0** is an aptitude test that offers aspiring students the opportunity to engage in intellectually stimulating challenges. The test includes:
 
 -  Basic Mathematical Aptitude  
 - Logical and Verbal Reasoning  
 -  Data Interpretation  
 
 Inspired by renowned aptitude exams like **CAT**, this event simulates the screening process of hiring companies. It's a platform where participants can compete with peers on a national scale.
+#User Experience:
+https://drive.google.com/file/d/1rTDWmEiAF7hXPf_EhMv3sYOjpgTemb6k/view?usp=sharing
 
 ---
 
@@ -56,8 +58,6 @@ http://127.0.0.1:8000/
 If you’ve created a superuser, access the admin interface at:
 http://127.0.0.1:8000/admin/
 
- Contributing
-We welcome contributions from the community!
 
 
 
