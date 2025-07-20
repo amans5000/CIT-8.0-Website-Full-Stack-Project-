@@ -1,22 +1,22 @@
-# 🧠 Cognitive Intelligence Test (CIT) 8.0 – Website
+# Cognitive Intelligence Test (CIT) 8.0 – Website
 
 Welcome to the official repository for the **Cognitive Intelligence Test (CIT) 8.0** website, built using **Django**.
 
 ---
 
-## 📘 Overview
+## Overview
 
 **CIT 8.0** is a national-level aptitude test that offers aspiring students the opportunity to engage in intellectually stimulating challenges. The test includes:
 
-- 🧮 Basic Mathematical Aptitude  
-- 🔍 Logical and Verbal Reasoning  
-- 📊 Data Interpretation  
+-  Basic Mathematical Aptitude  
+- Logical and Verbal Reasoning  
+-  Data Interpretation  
 
 Inspired by renowned aptitude exams like **CAT**, this event simulates the screening process of hiring companies. It's a platform where participants can compete with peers on a national scale.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology     | Purpose                                        |
 |----------------|------------------------------------------------|
@@ -27,12 +27,13 @@ Inspired by renowned aptitude exams like **CAT**, this event simulates the scree
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run this project locally, follow the steps below:
 
 ### 1. Clone the Repository
 git clone https://github.com/your-username/CIT-8.0.git
+
 cd CIT-8.0
 
 ### 2. Install Dependencies
@@ -55,16 +56,10 @@ http://127.0.0.1:8000/
 If you’ve created a superuser, access the admin interface at:
 http://127.0.0.1:8000/admin/
 
-🤝 Contributing
+ Contributing
 We welcome contributions from the community!
 
-You can:
 
-📌 Report bugs
-
-💡 Suggest enhancements
-
-📥 Submit pull requests
 
 
 
