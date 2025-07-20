@@ -1,7 +1,7 @@
 # Cognitive Intelligence Test (CIT) 8.0 – Website
 
 Welcome to the official repository for the **Cognitive Intelligence Test (CIT) 8.0** website, built using **Django**.
-
+Hosted Link: https://cit.istenitdgp.com/ 
 ---
 
 ## Overview
